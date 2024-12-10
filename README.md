@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @divyabindu77
 - 👀 I’m interested in Front-End Web Development
-- 🤝 I'm looking for help with training Llama-2
 - 🌱 I’m currently learning GenAI
 - ⚡ Fun fact: I am a good listener
 
