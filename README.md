@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyabindu77
-- 👀 I’m interested in Front-End Web Development
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning GenAI
 - ⚡ Fun fact: I am a good listener
 
